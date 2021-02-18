@@ -1,4 +1,4 @@
-## Welcome to Daniel Stephens' Github profile
+# Welcome to Daniel Stephens' Github profile
 
 I am currently studying web development through the Learn Enough to be Dangerous tutorials.</br>
 I have recently received certification in the following:
