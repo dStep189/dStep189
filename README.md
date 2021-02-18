@@ -1,4 +1,4 @@
-# Welcome to Daniel Stephens' Github Profile
+# Welcome to Daniel Stephens' Github profile
 
 I am currently studying web development through the <a href="https://www.learnenough.com/">Learn Enough to be Dangerous</a> tutorials.</br>
 I have recently received certification in the following:
@@ -9,14 +9,14 @@ I have recently received certification in the following:
 <a href="https://www.learnenough.com/certificates/dstep189"><img src="https://www.learnenough.com/certificates/dstep189/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
 
 Completed:
-* <a href="https://www.learnenough.com/command-line">Learn Enough Command-Line to be Dangerous</a>
-* <a href="https://www.learnenough.com/text-editor">Learn Enough Text Editor to be Dangerous</a>
-* <a href="https://www.learnenough.com/git">Learn Enough Git to be Dangerous</a>
-* <a href="https://www.learnenough.com/html">Learn Enough HTML to be Dangerous</a>
+* Learn Enough <a href="https://www.learnenough.com/command-line">Command-Line</a> to be Dangerous
+* Learn Enough <a href="https://www.learnenough.com/text-editor">Text Editor</a> to be Dangerous
+* Learn Enough <a href="https://www.learnenough.com/git">Git</a> to be Dangerous
+* Learn Enough <a href="https://www.learnenough.com/html">HTML</a> to be Dangerous
 
-<!-- * <a href="https://www.learnenough.com/css">Learn Enough CSS to be Dangerous</a>
-* <a href="https://www.learnenough.com/javascript">Learn Enough JavaScript to be Dangerous</a>
-* <a href="https://www.learnenough.com/ruby">Learn Enough Ruby to be Dangerous</a>
+<!-- * Learn Enough <a href="https://www.learnenough.com/css-and-layout">CSS & Layout</a> to be Dangerous
+* Learn Enough <a href="https://www.learnenough.com/javascript">JavaScript</a> to be Dangerous
+* Learn Enough <a href="https://www.learnenough.com/ruby">Ruby</a> to be Dangerous
 * <a href="https://www.learnenough.com/ruby-on-rails-6th-edition">Ruby on Rails Tutorial</a> -->
 
 <!--
