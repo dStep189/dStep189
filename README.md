@@ -1,6 +1,6 @@
 # Welcome to Daniel Stephens' Github profile
 
-I am currently studying web development through the Learn Enough to be Dangerous tutorials.</br>
+I am currently studying web development through the <a href='https://www.learnenough.com/">Learn Enough to be Dangerous</a> tutorials.</br>
 I have recently received certification in the following:
 
 <a href="https://www.learnenough.com/certificates/dstep189"><img src="https://www.learnenough.com/certificates/dstep189/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
