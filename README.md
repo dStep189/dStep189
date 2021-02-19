@@ -9,6 +9,7 @@ I have recently received certification in the following:
 <a href="https://www.learnenough.com/certificates/dstep189"><img src="https://www.learnenough.com/certificates/dstep189/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
 
 Completed:
+
 * Learn Enough <a href="https://www.learnenough.com/command-line">Command-Line</a> to be Dangerous
 * Learn Enough <a href="https://www.learnenough.com/text-editor">Text Editor</a> to be Dangerous
 * Learn Enough <a href="https://www.learnenough.com/git">Git</a> to be Dangerous
